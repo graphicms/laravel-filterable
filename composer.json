@@ -2,7 +2,7 @@
     "name": "gency/laravel-filterable",
     "description": "A trait to add query filtering functions to Laravel models",
     "require": {
-        "illuminate/support": "~5.1",
+        "illuminate/support": "^8.0",
         "php" : ">=5.4.0"
     },
     "authors": [
